@@ -40,7 +40,7 @@ Searched "Missouri" in the search bar, bringing up schools that begin with that 
 
 ### Create an Account  
 Sign up using your `.edu` email to join your university's community.  
-![Create Account](./screenshots/create_accountTEST.png)
+![Create Account](./screenshots/create_account.png)
 *Caption: Screenshot of the account creation page, displaying an error message when a non-**.edu** email address is entered.*
 
 ### Account Dashboard  
